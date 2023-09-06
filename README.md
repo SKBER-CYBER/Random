@@ -19,6 +19,8 @@ pip install lolcat
 
 pip install bs4
 
+rm -rf Random
+
 git clone https://github.com/SKBER-CYBER/Random
 
 cd Random
