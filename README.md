@@ -25,6 +25,6 @@ git clone https://github.com/SKBER-CYBER/Random
 
 cd Random
 
-python V11.py
+python Random.py
 
 # Random
